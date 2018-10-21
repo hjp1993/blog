@@ -79,8 +79,8 @@ return [
     */
 
 //    'locale' => 'en',
-//    'locale' => 'zh_CN',
-    'locale' => env('APP_LOCALE', 'en'),
+    'locale' => 'zh-CN',
+//    'locale' => env('APP_LOCALE', 'en'),
 
     /*
     |--------------------------------------------------------------------------
