@@ -10,7 +10,7 @@ use Encore\Admin\Grid;
 use Encore\Admin\Layout\Content;
 use Encore\Admin\Show;
 
-class invoiceController extends Controller
+class InvoiceController extends Controller
 {
     use HasResourceActions;
 
