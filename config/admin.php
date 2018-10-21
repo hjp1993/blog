@@ -75,7 +75,7 @@ return [
     | Html title for all pages.
     |
     */
-    'title' => 'Admin',
+    'title' => '后台面板',
 
     /*
     |--------------------------------------------------------------------------
@@ -221,7 +221,8 @@ return [
     | "sidebar-mini".
     |
     */
-    'layout' => ['sidebar-mini', 'sidebar-collapse'],
+//    'layout' => ['sidebar-mini', 'sidebar-collapse'],
+    'layout' => ['sidebar-open', 'sidebar-mini'],
 
     /*
     |--------------------------------------------------------------------------

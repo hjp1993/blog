@@ -26,7 +26,7 @@ return [
     'export'                => 'Export',
     'batch_delete'          => 'Batch delete',
     'save'                  => 'Save',
-    'refresh'               => 'Refresh',
+    'refresh'               => '刷新',
     'order'                 => 'Order',
     'expand'                => 'Expand',
     'collapse'              => 'Collapse',
